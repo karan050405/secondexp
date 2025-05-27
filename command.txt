@@ -1,4 +1,0 @@
-git init
-git remote add origin https://github.com/karan050405/secondexp.git
-git branch
-git push origin main
